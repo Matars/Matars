@@ -19,11 +19,13 @@
 <!-- Repeat Above Line For More Icons -->
 </div></td><td valign="top" width="33%">
 
+</div></td></tr></table> 
+
 ## Connect with Me 🌐
 - [Your Portfolio](https://matars.netlify.app/)
 
 
 ## GitHub Stats 📈
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matars&show_icons=true&theme=radical)
+![Matars](https://github-readme-stats.vercel.app/api?username=Matars&show_icons=true&theme=radical)
 
 <!-- Optional: Any other sections you want to include -->
