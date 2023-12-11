@@ -18,11 +18,10 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python" height="50" />
 <!-- Repeat Above Line For More Icons -->
 </div></td><td valign="top" width="33%">
-
-</div></td></tr></table> 
+</table> 
 
 ## Connect with Me 🌐
-- [Your Portfolio](https://matars.netlify.app/)
+- [Portfolio](https://matars.netlify.app/)
 
 
 ## GitHub Stats 📈
