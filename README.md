@@ -11,4 +11,4 @@ My goal is to focus on building
 
 ## ClosedSource Projects
 
-[NoNumbers(https://matars.github.io/NoNumbers/) - coop (2-4) browser card game inspired by The Mind
+[NoNumbers](https://matars.github.io/NoNumbers/) - coop (2-4) browser card game inspired by The Mind
