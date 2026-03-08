@@ -7,7 +7,7 @@ My goal is to focus on building
 ## OpenSource Projects
 [openswarm](https://github.com/Matars/OpenSwarm) - Keyboard-first TUI for running parallel AI agents across Git worktrees. \
 [gitfetch](https://github.com/Matars/gitfetch) - A neofetch-style CLI tool for displaying your github stats \
-[MoreVideos](https://github.com/Matars/MoreVideos) - Browser extension to customize the video grid layout, hide YouTube Shorts & remove clutter
+[MoreVideos](https://github.com/Matars/MoreVideos) - Browser extension to customize the YouTube video grid layout, hide YouTube Shorts & remove clutter
 
 
 ## ClosedSource Projects
