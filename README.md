@@ -12,6 +12,6 @@ My goal is to focus on building
 
 ## ClosedSource Projects
 
-[xScribe](https://xscribe.tech/) - AI-powered transcription for museums — turns audio guides and lectures into intelligent, searchable text \
+[xScribe](https://xscribe.tech/) - AI-powered transcription for museums with RAG search, edit & fix, fine-tuned per workspace, and enterprise-grade data security \
 [multistream](https://multistream.matars.org/) - watch Twitch, Kick & YouTube streams in a unified grid layout *(work in progress)*  \
 [NoNumbers](https://nonumbers.matars.org/) - coop (2-4) browser card game inspired by The Mind
