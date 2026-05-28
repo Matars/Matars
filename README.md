@@ -6,7 +6,7 @@ Software Engineer, coding since i was 12
 ✦
 
 ✦
-My goal is to focus on building
+My goal is to focus on building and to grow the list of projects below
 ✦
 
 </div>
