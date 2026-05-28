@@ -1,8 +1,14 @@
-### Hello, I'm Matar
+
+<div align="center">
+  <h3>Hello, I'm Matar</h3>
 
 Software Engineer, coding since i was 12
 
 My goal is to focus on building
+
+</div>
+
+---
 
 ## OpenSource Projects
 [openswarm](https://github.com/Matars/OpenSwarm) - Keyboard-first TUI for running parallel AI agents across Git worktrees. \
@@ -17,6 +23,7 @@ My goal is to focus on building
 [inkuis](https://inkuis.lnu.se/) - AI-powered events aggregator — ask open-ended questions to find campus happenings, workshops, and socials \
 [NoNumbers](https://nonumbers.matars.org/) - coop (2-4) browser card game inspired by The Mind
 
+---
 
 <pre align="center">
               ⣿⣿⣿⣿⣿⣷⣿⣿⣿⡅⡹⢿⠆⠙⠋⠉⠻⠿⣿⣿⣿⣿⣿⣿⣮⠻⣦⡙⢷⡑⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣌⠡⠌⠂⣙⠻⣛⠻⠷⠐⠈⠛⢱⣮⣷⣽⣿
