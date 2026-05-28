@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h3>Hello, I'm Matar</h3>
+<h3>Hello, I'm Matar</h3>
 
 Software Engineer, coding since i was 12
 
