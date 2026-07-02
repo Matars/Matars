@@ -14,7 +14,8 @@ My goal is to focus on building and to grow the list of projects below
 ---
 
 ## OpenSource Projects
-[x-view](https://github.com/Matars/x-view) - Self-hosted multi-column X/Twitter web client. Japan-inspired dark theme, pre-built PrivateBird binary inlined. \
+[x-view](https://github.com/Matars/x-view) - Self-hosted multi-column X/Twitter web client. Minimal dark theme, pre-built 
+[PrivateBird](https://github.com/Matars/PrivateBird) binary inlined. \
 [openswarm](https://github.com/Matars/OpenSwarm) - Keyboard-first TUI for running parallel AI agents across Git worktrees. \
 [gitfetch](https://github.com/Matars/gitfetch) - A neofetch-style CLI tool for displaying your github stats \
 [MoreVideos](https://github.com/Matars/MoreVideos) - Browser extension to customize the YouTube video grid layout, hide YouTube Shorts & remove clutter \
@@ -22,7 +23,7 @@ My goal is to focus on building and to grow the list of projects below
 
 ## ClosedSource Projects
 
-[PrivateBird](https://github.com/Matars/PrivateBird) - CLI for X/Twitter's undocumented GraphQL API. Private fork of steipete/bird with fixed query IDs and automatic endpoint healing. \
+[PrivateBird](https://github.com/Matars/PrivateBird) - CLI for X/Twitter's undocumented GraphQL API. Private fork of steipete/bird with patched query IDs and automatic endpoint healing. \
 [xScribe](https://xscribe.tech/) - AI-powered transcription for museums with RAG search, edit & fix, fine-tuning per workspace, and enterprise-grade data security \
 [awaits](https://awaits.lnu.se/) - AI feedback platform for higher education: students submit papers, teachers configure custom agents with course material and instructions, and feedback bubbles are auto-generated *150 active students — invite-only, LNU)* \
 [inkuis](https://inkuis.lnu.se/) - AI-powered events aggregator — ask open-ended questions to find campus happenings, workshops, and socials \
