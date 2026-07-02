@@ -14,8 +14,7 @@ My goal is to focus on building and to grow the list of projects below
 ---
 
 ## OpenSource Projects
-[x-view](https://github.com/Matars/x-view) - Self-hosted multi-column X/Twitter web client. Minimal dark theme, pre-built 
-[PrivateBird](https://github.com/Matars/PrivateBird) binary inlined. \
+[x-view](https://github.com/Matars/x-view) - Self-hosted multi-column X/Twitter web client. Minimal dark theme. No xcurl, fully free. \
 [openswarm](https://github.com/Matars/OpenSwarm) - Keyboard-first TUI for running parallel AI agents across Git worktrees. \
 [gitfetch](https://github.com/Matars/gitfetch) - A neofetch-style CLI tool for displaying your github stats \
 [MoreVideos](https://github.com/Matars/MoreVideos) - Browser extension to customize the YouTube video grid layout, hide YouTube Shorts & remove clutter \
