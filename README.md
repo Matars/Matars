@@ -25,6 +25,7 @@ My goal is to focus on building and to grow the list of projects below
 ## ClosedSource Projects
 
 [SF6 Stats](https://sfstats.matars.org) - Personal Street Fighter 6 analytics from Capcom Buckler data (MR charts, habits radar, matchups, rankings) \
+[FitBrowse](https://fitbrowse.matars.org/) - A faster, filter-first browser for exploring FitGirl repacks with Steam-powered modes, player counts, and instant filtering \
 [xScribe](https://xscribe.tech/) - AI-powered transcription for museums with RAG search, edit & fix, fine-tuning per workspace, and enterprise-grade data security \
 [awaits](https://awaits.lnu.se/) - AI feedback platform for higher education: students submit papers, teachers configure custom agents with course material and instructions, and feedback bubbles are auto-generated *150 active students — invite-only, LNU)* \
 [inkuis](https://inkuis.lnu.se/) - AI-powered events aggregator — ask open-ended questions to find campus happenings, workshops, and socials \
