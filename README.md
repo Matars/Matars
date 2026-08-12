@@ -18,6 +18,7 @@ My goal is to focus on building and to grow the list of projects below
 [openswarm](https://github.com/Matars/OpenSwarm) - Keyboard-first TUI for running parallel AI agents across Git worktrees. \
 [gitfetch](https://github.com/Matars/gitfetch) - A neofetch-style CLI tool for displaying your github stats \
 [PrivateBird](https://github.com/Matars/PrivateBird) - CLI for X/Twitter's undocumented GraphQL API. Private fork of steipete/bird with patched query IDs and automatic endpoint healing. \
+[Buckler API Docs](https://github.com/Matars/buckler-api-docs) - Unofficial community documentation for Street Fighter 6 Buckler's Boot Camp Next.js data routes. \
 [MoreVideos](https://github.com/Matars/MoreVideos) - Browser extension to customize the YouTube video grid layout, hide YouTube Shorts & remove clutter \
 [AniCal](https://github.com/Matars/AniCal) - Browser extension to track anime and manga releases with feed and calendar views, bookmarks, and quick show details. \
 [x-view](https://github.com/Matars/x-view) - Self-hosted multi-column X/Twitter web client. Minimal dark theme. No xcurl/X API costs, **fully free**.
