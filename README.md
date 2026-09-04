@@ -15,26 +15,26 @@ My goal is to focus on building and to grow the list of projects below
 
 ## OpenSource Projects
 
+
+⭐ [gitfetch](https://github.com/Matars/gitfetch) - A neofetch-style CLI tool for displaying your github stats \
 [openswarm](https://github.com/Matars/OpenSwarm) - Keyboard-first TUI for running parallel AI agents across Git worktrees. \
-[gitfetch](https://github.com/Matars/gitfetch) - A neofetch-style CLI tool for displaying your github stats \
 [PrivateBird](https://github.com/Matars/PrivateBird) - CLI for X/Twitter's undocumented GraphQL API. Private fork of steipete/bird with patched query IDs and automatic endpoint healing. \
 [Buckler API Docs](https://github.com/Matars/buckler-api-docs) - Unofficial community documentation for Street Fighter 6 Buckler's Boot Camp Next.js data routes. \
 [MoreVideos](https://github.com/Matars/MoreVideos) - Browser extension to customize the YouTube video grid layout, hide YouTube Shorts & remove clutter \
 [AniCal](https://github.com/Matars/AniCal) - Browser extension to track anime and manga releases with feed and calendar views, bookmarks, and quick show details. \
 [x-view](https://github.com/Matars/x-view) - Self-hosted multi-column X/Twitter web client. Minimal dark theme. No xcurl/X API costs, **fully free**.
 
-## ClosedSource Projects
+## ClosedSource Projects 
 
-[SF6 Stats](https://sfstats.matars.org) - Personal Street Fighter 6 analytics from Capcom Buckler data (MR charts, habits radar, matchups, rankings) \
-[FitBrowse](https://fitbrowse.matars.org/) - A faster, filter-first browser for exploring FitGirl repacks with Steam-powered modes, player counts, and instant filtering \
-[xScribe](https://xscribe.tech/) - AI-powered transcription for museums with RAG search, edit & fix, fine-tuning per workspace, and enterprise-grade data security \
-[awaits](https://awaits.lnu.se/) - AI feedback platform for higher education: students submit papers, teachers configure custom agents with course material and instructions, and feedback bubbles are auto-generated *150 active students — invite-only, LNU)* \
-[inkuis](https://inkuis.lnu.se/) - AI-powered events aggregator — ask open-ended questions to find campus happenings, workshops, and socials \
+⭐ [SF6 Stats](https://sfstats.matars.org) - Personal Street Fighter 6 analytics from Capcom Buckler data (MR charts, habits radar, matchups, rankings) \
 [Rokoala](https://rokoala.com/) - Curated Roblox game recommendations, ranked and reviewed weekly by category with live player counts \
 [Smited](https://smited.app/) - Daily SMITE guessing games and arcade challenges with Duel, god, lore, and emoji modes \
 [NoNumbers](https://nonumbers.matars.org/) - coop (2-4) browser card game inspired by The Mind 
 
-
+#### Discontinued Projects
+[xScribe] - Transcription for museums with RAG search, edit & fix, fine-tuning per workspace, and enterprise-grade data security \
+[awaits] - Feedback platform for higher education: students submit papers, teachers configure custom agents with course material and instructions, and feedback bubbles are auto-generated *150 active students — invite-only, LNU)* \
+[inkuis] - Events aggregator — ask open-ended questions to find campus happenings, workshops, and socials \
 ---
 
 <div align="center">
